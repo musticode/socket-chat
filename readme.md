@@ -1,7 +1,3 @@
-# https://www.youtube.com/watch?v=43oxx7jjiss&ab_channel=BerkantKAYA
-
-# https://youtu.be/43oxx7jjiss?t=3412
-
 
 - SERVER start:
 ```
